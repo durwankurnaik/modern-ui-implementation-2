@@ -110,6 +110,10 @@
     display: none;
   }
 
+  .app__navbar-logo img {
+    width: 180px;
+  }
+
   .app__navbar-smallscreen {
     display: flex;
   }
