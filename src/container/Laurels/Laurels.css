@@ -37,6 +37,10 @@
     margin-top: 3rem;
   }
 
+  .app__laurels-awards_card {
+    gap: 2rem;
+  }
+
   .app__laurels-awards_card-content {
     margin-left: 0;
   }
